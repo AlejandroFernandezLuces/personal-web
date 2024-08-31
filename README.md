@@ -7,8 +7,7 @@ https://owickstrom.github.io/the-monospace-web/
 ## Build
 
 ```
-nix develop # or `direnv allow .`
-make
+pandoc -s -f markdown -t html5 -o index.html index.md -c index.css
 ```
 
 ## License
