@@ -20,6 +20,7 @@ jobs:
     - name: Build
       run: |
         make .
+    # Add deployment
     - name: Deploy to GH pages
       uses: peaceiris/actions-gh-pages@v4
       with:
