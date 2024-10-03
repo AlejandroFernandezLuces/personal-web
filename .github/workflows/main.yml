@@ -6,7 +6,7 @@ on:
       - main
 
 permissions:
-    contents: read
+    contents: write
     pull-requests: write
 
 jobs:
@@ -19,7 +19,7 @@ jobs:
       uses: actions/checkout@v2
     - name: Build
       run: |
-        make .
+        make
     # Add deployment
     - name: Deploy to GH pages
       uses: peaceiris/actions-gh-pages@v4
