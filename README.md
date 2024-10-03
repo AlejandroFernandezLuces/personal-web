@@ -1,13 +1,21 @@
-# The Monospace Web
+# My personal webpage
 
-Monospace fonts are dear to many of us. Some find them more readable, consistent, and beautiful, than their proportional alternatives. Maybe we’re just brainwashed from spending years in terminals? Or are we hopelessly nostalgic? I’m not sure. But I like them, and that’s why I started experimenting with all-monospace Web.
+Template from: https://github.com/owickstrom/the-monospace-web
 
-https://owickstrom.github.io/the-monospace-web/
+## Requirements
+
+This project requires pandoc to be installed, and pdflatex.
 
 ## Build
+It provides a makefile to build either the HTML
+```
+make
+```
+
+Or generate the PDF of the resume with
 
 ```
-pandoc -s -f markdown -t html5 -o index.html index.md -c index.css
+make pdf
 ```
 
 ## License
