@@ -5,18 +5,6 @@ mail: 21alex295@gmail.com
 geometry: "left=2cm,right=2cm,top=2cm,bottom=1cm"
 ---
 
-
-<table>
-<thead>
-  <tr>
-    <th class="width-max"><a href="index.html">Home</a></th>
-    <th class="width-max"><a href="blog.html">Blog</a></th>
-    <th class="width-max"><a href="resume.html">Resume</a></th>
-  </tr>
-</thead>
-</table>
-
-
 \pagenumbering{gobble}
 \author{\textbf{Contact:} \href{mailto:21alex295@gmail.com}{21alex295@gmail.com}}
 
@@ -30,7 +18,7 @@ Research & Development Engineer at Ansys, where I'm developing PyAnsys open sour
 ## Software engineering 
  - I mostly program in **Python** and **C++** (3 years work experience), and some **Golang**. I'm experienced in **object oriented programming**, so I'm comfortable in any language that uses this paradigm. I've implemented plenty of **REST** services, using **OpenAPI** for the specification, **Flask** framework in Python, and **Boost** in C++.
  - I've continuously been using **Git** since the start of my career, with Github and Gitlab, to organize and maintain my code, and to properly collaborate with others. I've implemented **Github Workflows** for the continous integration and continuous delivery of my projects, as well as some open source **Github Actions**. Also, I've worked plenty with **Docker** to containerize my applications for easier deployment.
- - To sustain code quality in the projects I participate in, I use extensive code testing, through **PyTest** and **Google test** frameworks. Also I participate in **code reviews** to ensure code quality, both as reviewer and reviewee.
+ - To sustain code quality in the projects I participate in, I use extensive code testing, through **PyTest** and **Google test** frameworks. Also I participate in **code reviews** to ensure code quality, both as reviewer and reviewed.
 
 ## Machine Learning and computer vision
  - I'm working on several language processing projects, where I use **OpenAI Azure**, **Ollama** and **HuggingFace**, for RAG based applications for coding helpers.
@@ -61,7 +49,7 @@ Research & Development Engineer at Ansys, where I'm developing PyAnsys open sour
 - Continuous research on the state of the art of large language models and its associated technologies and integrations.
 
 #### Development and maintenance of open source PyAnsys libraries
-- Development and maintainment of PyAnsys Geometry. Implemented enhancements based on valuable client feedback, bolstering its plotter capabilities and improving user experience.
+- Development and maintenance of PyAnsys Geometry. Implemented enhancements based on valuable client feedback, bolstering its plotter capabilities and improving user experience.
 
 - Development and maintenance of PyPrimeMesh. Strengthened PyPrimeMesh’s reliability and maintainability by introducing comprehensive unit testing and integrating CI/CD pipelines on GitHub.
 
