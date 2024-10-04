@@ -28,4 +28,3 @@ jobs:
         publish_dir: ./web
         external_repository: AlejandroFernandezLuces/alejandrofernandezluces.github.io
         publish_branch: main
-        cname: alefer.xyz
