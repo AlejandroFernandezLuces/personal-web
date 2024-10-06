@@ -11,13 +11,14 @@ geometry: "left=2cm,right=2cm,top=2cm,bottom=1cm"
 
 # About me
 
+
 Research & Development Engineer at Ansys, where I'm developing PyAnsys open source initiative. I loved the machine learning and computer vision subjects during my bachelor's degree, so I decided to specialize on it with a master’s degree. Passionate about all sciences.
 
 # Skills overview
 
 ## Software engineering 
  - I mostly program in **Python** and **C++** (3 years work experience), and some **Golang**. I'm experienced in **object oriented programming**, so I'm comfortable in any language that uses this paradigm. I've implemented plenty of **REST** services, using **OpenAPI** for the specification, **Flask** framework in Python, and **Boost** in C++.
- - I've continuously been using **Git** since the start of my career, with Github and Gitlab, to organize and maintain my code, and to properly collaborate with others. I've implemented **Github Workflows** for the continous integration and continuous delivery of my projects, as well as some open source **Github Actions**. Also, I've worked plenty with **Docker** to containerize my applications for easier deployment.
+ - I've continuously been using **Git** since the start of my career, with Github and Gitlab, to organize and maintain my code, and to properly collaborate with others. I've implemented **Github Workflows** for the continuous integration and continuous delivery of my projects, as well as some open source **Github Actions**. Also, I've worked plenty with **Docker** to containerize my applications for easier deployment.
  - To sustain code quality in the projects I participate in, I use extensive code testing, through **PyTest** and **Google test** frameworks. Also I participate in **code reviews** to ensure code quality, both as reviewer and reviewed.
 
 ## Machine Learning and computer vision
